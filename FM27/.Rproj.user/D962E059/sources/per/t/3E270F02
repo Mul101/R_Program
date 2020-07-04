@@ -1,0 +1,32 @@
+{
+    "id": "3E270F02",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1593841072153.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "FMB_Mr",
+        "caption": "FMB_Mr",
+        "totalObservations": 30,
+        "displayedObservations": 30,
+        "variables": 2,
+        "cacheKey": "9CA5228C",
+        "object": "FMB_Mr",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=FMB_Mr&cache_key=9CA5228C&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7957702707510404206,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1593841072153,
+    "read_only": false,
+    "read_only_alternatives": []
+}
