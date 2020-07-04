@@ -1,0 +1,6 @@
+library(readxl)
+FMA_Mr_ <- read_excel("C:/Users/Aspire14/Downloads/FMA_Mr..xlsx")
+View(FMA_Mr_)
+library(readxl)
+FMB_Mr <- read_excel("C:/Users/Aspire14/Downloads/FMB_Mr.xlsx")
+View(FMB_Mr)
